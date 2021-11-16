@@ -1,0 +1,21 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Creating a note taker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kembo001/noteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kembo001/noteTaker/issues"
+  },
+  "homepage": "https://github.com/kembo001/noteTaker#readme",
+  "keywords": []
+}
