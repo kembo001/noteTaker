@@ -10,4 +10,5 @@
  - HTML
  - JavaScript
  # Links
-https://github.com/kembo001/noteTaker.git
+- https://github.com/kembo001/noteTaker.git
+- https://kemboi-brandon.herokuapp.com/
