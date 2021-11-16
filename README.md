@@ -10,3 +10,4 @@
  - HTML
  - JavaScript
  # Links
+https://github.com/kembo001/noteTaker.git
