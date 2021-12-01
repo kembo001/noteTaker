@@ -1,24 +1,16 @@
 {
-  "name": "notetaker",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "Creating a note taker app",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kembo001/noteTaker.git"
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kembo001/noteTaker/issues"
-  },
-  "homepage": "https://github.com/kembo001/noteTaker#readme",
-  "keywords": [],
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.16.4",
+    "nodemon": "^2.0.4"
   }
 }
